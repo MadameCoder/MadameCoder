@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MadameCoder
+- 👋 Hi,
 - 👩🏻‍💻 I'm Computer Engineer.
 - 👀 I’m interested in Java and Flutter
 - 📫 How to reach me? 
