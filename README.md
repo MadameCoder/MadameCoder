@@ -1,6 +1,12 @@
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=madamecoder&label=Profile Views&color=brightgreen&style=plastic" alt="madamecoder" /> </p>
-# Hi, 
-## I'm Computer Engineer.
+# Hi ,  I'm Computer Engineer 👩🏻‍💻
+## 📫 How to reach me? 
+<p align="left">
+<a href="https://instagram.com/madamecoder" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-1DA1F2?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://twitter.com/madamecoderTR" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://medium.com/@madamecoder" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
+
+
 
 ### 🛠 Software 
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
@@ -12,9 +18,6 @@
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows)&nbsp;
 
 
-- 👀 I’m interested in Java and Flutter
-
-- 📫 How to reach me? 
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=madamecoder&&show_icons=true&title_color=3fd1fb&icon_color=3fd1fb&text_color=daf7dc&bg_color=151515"></img>
@@ -23,13 +26,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madamecoder&theme=dark&hide_langs_below=4312&title_color=fed142&text_color=daf7dc&bg_color=242424"/>
 
 
-<p align="left">
-<a href="https://twitter.com/AdemOzcanTR" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://medium.com/@adem68" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
-<a href="https://t.me/adem68" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://stackoverflow.com/users/13600048/adem" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
-<a href="https://play.google.com/store/apps/developer?id=Adem+Furkan+%C3%96zcan" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" alt="Play Store" /></a>
-</p>
 
 
 Twitter : @madamecoderTR
