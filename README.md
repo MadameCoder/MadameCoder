@@ -25,8 +25,4 @@
 <a href="https://medium.com/madamecoder" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
 <a href="https://play.google.com/store/apps/developer?id=Adem+Furkan+%C3%96zcan" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" alt="Play Store" /></a>
 </p>
-Twitter : @madamecoderTR
 
-Instagram : @madamecoder
-
-Mail : codermadame@gmail.com
