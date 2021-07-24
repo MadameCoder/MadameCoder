@@ -1,8 +1,8 @@
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=madamecoder&label=Profile Views&color=brightgreen&style=plastic" alt="madamecoder" /> </p>
-- 👋 Hi, 
-- 👩🏻‍💻 I'm Computer Engineer.
+# Hi, 
+## I'm Computer Engineer.
 
-### 🛠 Tech Stack
+### 🛠 Software 
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=29B6F6)&nbsp;
