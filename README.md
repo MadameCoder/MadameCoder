@@ -22,6 +22,6 @@
 <a href="https://twitter.com/madamecoderTR" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://medium.com/madamecoder" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
 
-
+...
 </p>
 
